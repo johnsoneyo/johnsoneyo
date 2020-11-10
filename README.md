@@ -1,10 +1,8 @@
-### Hi there 👋 ,I'm a Java Spring /Angular Developer looking for opportunities  
+### Welcome :bowtie: ,I'm a Java Spring /Angular Developer looking for opportunities  
 
 
-**johnsoneyo/johnsoneyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on cloud native applications ...
-- 🌱 I’m currently learning blockchain hyperledger technology
+- 🔭 Currently working on cloud native applications ...
+- 🌱 Currently learning blockchain hyperledger technology
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: johnsoneyo@gmail.com
