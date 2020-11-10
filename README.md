@@ -6,5 +6,5 @@
 - :neckbeard: I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: johnsoneyo@gmail.com
-- ⚡ Fun fact: Im play 3 musical instruments 
+- ⚡ Fun fact: I play 3 musical instruments 
 - :fries: Im a fries lover
