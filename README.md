@@ -1,5 +1,4 @@
-###  Bienvenue :bowtie: ,I'm a Java Spring /Angular / AWS Devops Engineer working on interesting stuff at the moment
-
+###  Bienvenue :bowtie: ,I'm a Java Spring /Angular / AWS Devops Engineer
 
 - 🔭 Currently working on cloud native applications ...
 - 🌱 Currently learning blockchain hyperledger technology
