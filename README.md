@@ -1,4 +1,4 @@
-###  Bienvenue :bowtie: ,I'm a Java Spring /Angular / AWS Devops Engineer  looking for opportunities  
+###  Bienvenue :bowtie: ,I'm a Java Spring /Angular / AWS Devops Engineer working on interesting stuff at the moment
 
 
 - 🔭 Currently working on cloud native applications ...
