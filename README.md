@@ -8,4 +8,4 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: johnsoneyo@gmail.com
 - ⚡ Fun fact: I play 3 musical instruments 
-- :fries: Im a fries lover
+- :fries: I love fries
