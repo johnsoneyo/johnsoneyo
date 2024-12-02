@@ -1,6 +1,6 @@
-###  Bienvenue :bowtie: ,I'm a Java / Machine Learning / AWS Devops Engineer
+###  :bowtie: Leader and Architect @ [Mitigant](https://www.mitigant.io/en)
 
-- 🔭 Currently working on cloud native applications ...
+- 🔭 Currently building cloud security posture applications ...
 - 🌱 Currently learning
     -  blockchain hyperledger technology
     -  machine learning with python
