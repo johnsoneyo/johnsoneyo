@@ -1,6 +1,6 @@
-###  :bowtie: Leader and Architect @ [Mitigant](https://www.mitigant.io/en)
+###  :bowtie: Leader and Servant
 
-- 🔭 Currently building cloud security posture applications ...
+- 🔭 Currently building Network applications with Netty 4.1 ...
 - 🌱 Currently learning
     -  blockchain hyperledger technology
     -  machine learning with python
