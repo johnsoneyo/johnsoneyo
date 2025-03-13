@@ -2,8 +2,9 @@
 
 - 🔭 Currently building Network applications with Netty 4.1 ...
 - 🌱 Currently learning
-    -  blockchain hyperledger technology
-    -  machine learning with python
+    - Rust
+    - Hyperledger Fabruc
+    - ML with Python
 - :neckbeard: I’m looking to collaborate on opensource projects and work free for startups
 - 💬 Ask me about ...
 - 📫 How to reach me: johnsoneyo@gmail.com
