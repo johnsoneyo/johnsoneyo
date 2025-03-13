@@ -3,7 +3,7 @@
 - 🔭 Currently building Network applications with Netty 4.1 ...
 - 🌱 Currently learning
     - Rust
-    - Hyperledger Fabruc
+    - Hyperledger Fabric
     - ML with Python
 - :neckbeard: I’m looking to collaborate on opensource projects and work free for startups
 - 💬 Ask me about ...
