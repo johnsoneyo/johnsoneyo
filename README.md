@@ -1,8 +1,8 @@
 ###  :bowtie: Leader and Servant
 
-- 🔭 Currently building Network applications with Netty 4.1 ...
+- 🔭 Currently building Network applications with Netty 4.1
+- 🔭 Contributing to Rust OS Projects on Github
 - 🌱 Currently learning
-    - Rust
     - Solana Web3
     - ML with Python
 - :neckbeard: I’m looking to collaborate on opensource projects and work free for startups
