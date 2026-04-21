@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Johnson</h1>
-<h3 align="center">🚀 Network Engineer | 🦀 Rust Enthusiast | ⚡ Builder</h3>
+<h3 align="center">🚀 Java Engineer | 🦀 Rust Enthusiast | ⚡ Builder</h3>
 
 <p align="center">
   <a href="mailto:johnsoneyo@gmail.com">
