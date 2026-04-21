@@ -14,7 +14,6 @@
 - 🦀 Contributing to **Rust OS projects**
 - 🌱 Currently learning:
   - ⚡ Solana Web3
-  - 🤖 Machine Learning with Python
 - 🤝 Open to **open-source collaborations** & **startup projects** (yes, even free for the right idea)
 
 ---
