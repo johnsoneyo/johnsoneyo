@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 - 🚀 Building **high-performance network applications** with **Netty 4.1**
-- 🦀 Contributing to **Rust OS projects**
+- 🦀 Contributing to **Rust OS projects** [Starship](https://github.com/starship/starship)
 - 🌱 Currently learning:
   - ⚡ Solana Web3
 - 🤝 Open to **open-source collaborations** & **startup projects** (yes, even free for the right idea)
